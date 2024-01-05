@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Sarabun-SemiBold;
+    src: url(../fonts/Sarabun-SemiBold.ttf);
+}
+@font-face {
+    font-family: Sarabun-Bold;
+    src: url(../fonts/Sarabun-Bold.ttf);
+}
+@font-face {
+    font-family: Sarabun-Medium;
+    src: url(../fonts/Sarabun-Medium.ttf);
+}
+@font-face {
+    font-family: Sarabun-Regular;
+    src: url(../fonts/Sarabun-Regular.ttf);
+}
+@font-face {
+    font-family: Sarabun-Light;
+    src: url(../fonts/Sarabun-Light.ttf);
+}
